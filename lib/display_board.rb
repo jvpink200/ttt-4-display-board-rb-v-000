@@ -6,6 +6,6 @@ def display_board(board)
   puts row3 = "   |   |   "
   puts row4 = "-----------"
   puts row5 = "   |   |   "
-  board = [" "," "," "," "," "," "," "," ",""]
+  board = [" "," "," "," "," "," "," "," "," "]
   puts "#{board[0]}"
 end
