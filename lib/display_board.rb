@@ -7,5 +7,3 @@ def display_board(board)
   puts row4 = "-----------"
   puts row5 = "   |   |   "
 end
-
-puts "#{board[0]}"
